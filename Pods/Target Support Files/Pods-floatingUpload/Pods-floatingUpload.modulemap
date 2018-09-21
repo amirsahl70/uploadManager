@@ -1,0 +1,6 @@
+module Pods_floatingUpload {
+  umbrella header "Pods-floatingUpload-umbrella.h"
+
+  export *
+  module * { export * }
+}
